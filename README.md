@@ -1,4 +1,4 @@
-# End-of-course_Project
+# DataScience_Project_HCMUS
 - **STT nhóm: 24**  
 - **Thông tin thành viên:**  
   
