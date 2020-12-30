@@ -1,0 +1,7 @@
+https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv
+https://nycdatascience.com/blog/student-works/scraping-kickstarter/
+https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=python
+https://www.geeksforgeeks.org/python-convert-string-dictionary-to-dictionary/
+https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python
+https://www.geeksforgeeks.org/multithreading-python-set-1/
+https://www.geeksforgeeks.org/python-how-to-lock-critical-sections/
