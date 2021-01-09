@@ -3,5 +3,5 @@ https://nycdatascience.com/blog/student-works/scraping-kickstarter/
 https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=python
 https://www.geeksforgeeks.org/python-convert-string-dictionary-to-dictionary/
 https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python
-https://www.geeksforgeeks.org/multithreading-python-set-1/
-https://www.geeksforgeeks.org/python-how-to-lock-critical-sections/
+https://scikit-learn.org/stable/modules/feature_extraction.html
+https://stackoverflow.com/questions/25646200/python-convert-timedelta-to-int-in-a-dataframe
