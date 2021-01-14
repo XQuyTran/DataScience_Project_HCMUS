@@ -5,3 +5,4 @@ https://www.geeksforgeeks.org/python-convert-string-dictionary-to-dictionary/
 https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python
 https://scikit-learn.org/stable/modules/feature_extraction.html
 https://stackoverflow.com/questions/25646200/python-convert-timedelta-to-int-in-a-dataframe
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
